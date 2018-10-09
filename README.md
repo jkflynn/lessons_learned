@@ -1,7 +1,7 @@
-<!doctype HTML>
+<!doctype html>
 <html>
   <header>
-    <title>Lessons Learned</title>
+    <h1>Lessons Learned</h1>
       </header>
     <body>
       <ol>
