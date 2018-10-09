@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <header>
     <h1>Lessons Learned</h1>
